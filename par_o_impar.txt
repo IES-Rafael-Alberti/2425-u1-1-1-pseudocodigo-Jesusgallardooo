@@ -1,0 +1,11 @@
+Inicio
+
+    Escribe "Introduzca un numero X -->"
+    Lee num
+
+    Si (num%2 == 0) entonces
+        Escribe "El numero" + num + " es par"
+    Sino
+        Escribe "El numero" + num + "es impar"
+    
+Fin

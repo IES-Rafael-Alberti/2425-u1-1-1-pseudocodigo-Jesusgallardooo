@@ -1,0 +1,21 @@
+Inicio 
+
+    Escribe "Introduzca un numero X -->"
+    Lee num
+    
+    x = 1
+    contador = 1
+    
+    Mientras (x <= num)
+        
+        Si (num%x == 0)
+            contador = contador + 1
+        
+        x = x + 1
+    
+    Si contador == 2 entonces
+        Escribe "El " + num + " ES primo."
+    Sino
+        Escribe "El " + num + " NO es primo."
+
+Fin

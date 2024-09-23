@@ -1,0 +1,14 @@
+Inicio
+
+    Escribe "Introduzca la tabla de qué numero quiere calcular --> "
+    Lee num
+
+    multiplicador = 1
+
+    Mientras (multiplicador <= 10)
+        
+        multiplicacion = num * multiplicador
+        Escribe multiplicador + " x " + num + " = " + multiplicacion
+        multiplicador = multiplicador + 1
+    
+Fin
