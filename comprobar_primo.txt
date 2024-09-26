@@ -4,7 +4,7 @@ Inicio
     Lee num
     
     x = 1
-    contador = 1
+    contador = 0
     
     Mientras (x <= num)
         
