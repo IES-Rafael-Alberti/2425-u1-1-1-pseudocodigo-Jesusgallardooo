@@ -1,0 +1,17 @@
+
+3. Muestra la tabla de multiplicar de un numero X del 1 al 10.
+
+Inicio
+
+    Escribe "Introduzca la tabla de qué numero quiere calcular --> "
+    Lee num
+
+    multiplicador = 1
+
+    Mientras (multiplicador <= 10)
+        
+        multiplicacion = num * multiplicador
+        Escribe multiplicador + " x " + num + " = " + multiplicacion
+        multiplicador = multiplicador + 1
+    
+Fin
