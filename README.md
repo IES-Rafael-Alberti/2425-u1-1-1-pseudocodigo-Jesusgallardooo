@@ -3,3 +3,5 @@
 
 Nombre: Jesús Gallardo Domínguez
 Edad: 19
+
+Primera entrega de ejercicios pseudocódigo
