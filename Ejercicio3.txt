@@ -1,3 +1,6 @@
+
+3. Identifica si un numero X es primo o no.
+
 Inicio 
 
     Escribe "Introduzca un numero X -->"
